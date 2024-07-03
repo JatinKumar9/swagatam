@@ -4,6 +4,8 @@
 
 layout: page
 ---
+<h1 style="text-align:center;"> The Joy Of Computing -Workshop at IIT Ropar</h1>
+
 ![joy of computing](images/joc.jpg)
 
 
